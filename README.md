@@ -44,5 +44,5 @@
   
   
 <p align="center">  
-  My name is Gutemberg Arrais and I'm will imporve the world!
+  My name is Gutemberg Arrais and I'm will improve the world!
 </p>
