@@ -10,7 +10,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5588988328851&text=Ol%C3%A1%20Gutemberg%2C%20gostei%20do%20perfil%20no%20GitHub!)](https://api.whatsapp.com/send?phone=5588988328851&text=Ol%C3%A1%20Gutemberg%2C%20gostei%20do%20perfil%20no%20GitHub!)
 
 - :man_technologist: **Fullstack** web developer. 
-- :octocat: **Coffe** passionate.
+- ☕ **Coffe** passionate.
 - :computer: React.js, React Native, Node.js, Javascript, TypeScript and **more**.
 - :books: Studying **Information systems** and currently studying at **Rocketseat** :purple_heart:
 
