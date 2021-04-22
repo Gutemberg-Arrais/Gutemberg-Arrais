@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://blog.dankicode.com/wp-content/uploads/2020/03/desenvolvedor-web-650x400.png" alt="gutembergarrais" />
+  <img src="https://watablogtravel.com/wp-content/uploads/2019/08/undraw_programming_2svr.png" alt="gutembergarrais" />
 </p>
 
 ## :man_technologist: I'm Gutemberg Arrais
@@ -24,10 +24,10 @@
 <table>
     <tr>
         <td>
-          <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutemberg-Arrais&hide=html&layout=compact&theme=dracula" />
+          <img widht="339px" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutemberg-Arrais&hide=html&layout=compact&theme=dracula" />
         </td>
         <td>
-          <img width="480px" align="right" src="https://github-readme-stats.vercel.app/api?username=Gutemberg-Arrais&theme=dracula" />
+          <img  width="400px" height="160px" src="https://github-readme-stats.vercel.app/api?username=Gutemberg-Arrais&theme=dracula" />
         </td>
     </tr>   
 </table>
