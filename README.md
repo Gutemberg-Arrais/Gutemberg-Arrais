@@ -21,28 +21,23 @@
 >  * Coffe Lover ☕
 
 
-<center>
-  <table>
+<table>
     <tr>
         <td>
-          <img width="400px" align="left" 
-               src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutemberg-Arrais&hide=html&layout=compact&theme=default" />
-      </td>
-      <td>
-          <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Gutemberg-Arrais&theme=default" />
-      </td>
+          <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutemberg-Arrais&hide=html&layout=compact&theme=dracula" />
+        </td>
+        <td>
+          <img width="480px" align="right" src="https://github-readme-stats.vercel.app/api?username=Gutemberg-Arrais&theme=dracula" />
+        </td>
     </tr>   
-  </table>
-</center>
+</table>
 
-</br>
 </br>
 <p align="center"><strong>"Coffe is power!"</strong></p>  
 </br>
 
   ---
   
-  
 <p align="center">  
-  My name is Gutemberg Arrais and I'm will improve the world!
+  My name is Gutemberg Arrais and I will improve the world!
 </p>
