@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://watablogtravel.com/wp-content/uploads/2019/08/undraw_programming_2svr.png" alt="gutembergarrais" />
+  <img src="[https://watablogtravel.com/wp-content/uploads/2019/08/undraw_programming_2svr.png](https://cdn1.vectorstock.com/i/1000x1000/47/05/young-man-programmer-working-on-computer-with-code-vector-18324705.jpg)" alt="gutembergarrais" />
 </p>
 
 ## :man_technologist: I'm Gutemberg Arrais
