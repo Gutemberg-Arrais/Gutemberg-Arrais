@@ -11,7 +11,7 @@
 
 - :man_technologist: **Backend** web developer. 
 - ☕ **Coffe** passionate.
-- :computer: .NET,d Node.js, Nest.js and **more**.
+- :computer: .NET, Node.js, Nest.js and **more**.
 
 #### :scroll: Fun facts: 
 >  * Every day studying and learning something new :loop:
